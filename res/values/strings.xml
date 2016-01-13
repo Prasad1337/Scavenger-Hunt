@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scavenger Hunt</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="registerNow">No account? Register now!</string>
+    <string name="loginNow">Already have an account? Login now!</string>
+    <string name="register">Register</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="registerUsernameError">Username must be longer than 4 characters.</string>
+    <string name="registerEmailError">Please enter a valid e-mail address.</string>
+    <string name="registerPasswordError">Password must be at least 8 characters.</string>
+    <string name="loading">Loading. Please wait...</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="info">Press the button to drop or collect a packet!</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="level">Level</string>
+    <string name="totalDropped">Total Items Dropped</string>
+    <string name="totalCollected">Total Items Collected</string>
+    <string name="xpToLevelUp">Points to Next Level</string>
+    <string name="leaderboards">Leaderboards</string>
+
+    <string-array name="leaderboard_options">
+        <item>Most Points</item>
+        <item>Most Items Collected</item>
+        <item>Most Items Dropped</item>
+    </string-array>
+
+    <string name="yourStats">Your Stats</string>
+    <string name="totalPoints">Total Points</string>
+    <string name="totalCollectedBoards">Total Items Collected</string>
+    <string name="totalDroppedBoards">Total Items Dropped</string>
+    <string name="logging">Logging In. Please Wait.</string>
+    <string name="title_activity_item_drop">ItemDrop</string>
+    <string name="items.TINY_BOX">Tiny Box</string>
+    <string name="items.MEDIUM_BOX">Medium Box</string>
+    <string name="items.LARGE_BOX">Large Box</string>
+    <string name="points">Points</string>
+
+</resources>
